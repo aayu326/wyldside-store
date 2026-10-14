@@ -1,0 +1,12 @@
+node_modules/
+.next/
+*.tsbuildinfo
+
+.env
+.env.*
+!.env.example
+
+.DS_Store
+src-backup.zip
+wyldside-project.zip
+wyldside-src.zip
